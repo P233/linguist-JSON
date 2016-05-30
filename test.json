@@ -1,0 +1,23 @@
+{
+  "name": "linguist-JSON",
+  "number": -123.321,
+  "number": 1.2e10,
+  "boolean": true,
+  "null": null,
+  "string": "double quoted string",
+  "escape": "double quoted \n string",
+  "array": [
+    "item",
+    "item",
+    "item"
+  ],
+  "object": {
+    "key": "value",
+    "key": "value"
+  },
+  "invalid": unquoted string,
+  "invalid": 'single quoted string',
+  "invalid": "missing comma"
+  "invalid": "value",
+  invalid: "unquoted key"
+}
